@@ -20,5 +20,5 @@ $ pip install -r requirements.txt
 Once the required modules are installed, you may start using the tool. The following can be used to know about the functionalities offered by the CLI Tool.
  
  ```python
-python todocli.py.py --help
+python todocli.py --help
 ```
